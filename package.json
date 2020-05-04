@@ -4,7 +4,8 @@
   "private": true,
   "description": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "parcel build src/index.html",
+    "start": "parcel src/index.html"
   },
   "repository": {
     "type": "git",
@@ -14,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RealOrangeOne/startpage/issues"
   },
-  "homepage": "https://github.com/RealOrangeOne/startpage#readme"
+  "homepage": "https://github.com/RealOrangeOne/startpage#readme",
+  "dependencies": {
+    "parcel-bundler": "1.12.4"
+  }
 }
