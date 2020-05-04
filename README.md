@@ -1,6 +1,7 @@
 # Startpage
 
 ![CI](https://github.com/RealOrangeOne/startpage/workflows/CI/badge.svg)
+![Deploy](https://github.com/RealOrangeOne/startpage/workflows/Deploy/badge.svg)
 
 Custom new tab [start page](https://www.reddit.com/r/startpages/).
 
